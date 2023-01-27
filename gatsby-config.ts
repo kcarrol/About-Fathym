@@ -19,7 +19,7 @@ const config: GatsbyConfig = {
         token: "Gm9Ty34dlBAiYKjUEOAuPLRgQ4twq3BxCZgu8yvk3J4DGT8VSisvMPNch4A9VXGB6mznUl0QMCZO2nTCRfP3w",
       },
     ], // An array of project ids.
-    preview: false,
+    preview: true,
     defaultPlasmicPage: path.resolve("./src/templates/defaultPlasmicPage.tsx"),
   },
 },
